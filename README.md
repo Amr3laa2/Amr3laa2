@@ -82,9 +82,8 @@ interests = [
 
 <div align="center">
 
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amr3laa2&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr3laa2&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amr3laa2&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amr3laa2&theme=github_dark)
 
 </div>
 
