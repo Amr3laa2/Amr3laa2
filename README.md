@@ -35,13 +35,13 @@ Currently a **Senior BI Professional** in banking, architecting reporting pipeli
 
 | Domain | Tools |
 |---|---|
-| **BI & Reporting** | Oracle Analytics Server · OBIEE · BI Publisher · RPD Development |
-| **Databases** | Oracle SQL · PL/SQL · Data Warehouse · OFSAA · DPRE / CP Reports |
+| **BI & Reporting** | Oracle Analytics Server · BI Publisher · RPD Development |
+| **Databases** | Oracle SQL · PL/SQL · Data Warehouse |
 | **Cloud** | AWS (Cloud Practitioner Certified) · S3 · Glue · Athena |
-| **Data Engineering** | Python · Pandas · PySpark · Apache Hadoop · Apache Pig |
+| **Data Engineering** | Python · Pandas · PySpark |
 | **Backend** | FastAPI · Docker · Kubernetes |
 | **Infra & DevOps** | Linux · Cron · Git · VMware · WebLogic · DR Failover |
-| **Visualization** | Power BI · Excel (xlsxwriter) |
+| **Visualization** | Power BI · OBIEE |
 
 </div>
 
