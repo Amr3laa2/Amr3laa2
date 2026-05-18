@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-### Senior BI Engineer · Data Warehouse Architect · Oracle Specialist
+### Data Visualization & Business Intelligence Operation Senior Developer @ Credit Agricole
 
 *Turning raw data into decisions — one pipeline at a time.*
 
